@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\about-us",
+    "\\src\\login",
+    "\\src\\my-dictionary",
+    "\\src\\services",
+    "\\src\\update-profile"
+  ],
+  "SelectedNode": "\\src\\services\\LoginService.js",
+  "PreviewInSolutionExplorer": false
+}
